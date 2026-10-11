@@ -398,10 +398,17 @@
           "chu_thich": "Quảng trường Nhà thờ đầu thế kỷ XX"
         },
         {
+          "file": "nha-tho-1968.jpg",
+          "loai": "1968",
+          "chu_thich": "Nhà thờ Đức Bà, 1968"
+        },				
+        {
           "file": "nha-tho-nay.jpg",
           "loai": "nay",
           "chu_thich": "Nhà thờ Đức Bà ngày nay"
         }
+				
+				
       ]
     },
     {
